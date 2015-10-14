@@ -1,0 +1,12 @@
+body {
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+    font-size: 100%;
+}
+#theme {
+    white-space: pre;
+    text-overflow: ellipsis;
+    overflow: none;
+}
+#loading{
+	margin: 10% 45%;
+}
