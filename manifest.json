@@ -12,8 +12,8 @@
   "content_scripts": [
     {
       "matches": ["https://www.7digital.com/*"],
-      "js": ["script/jquery-1.11.3.min.js", "script/playlister.js"],
-      "css": ["stylesheet/shop-style.css"]
+      "js": ["script/jquery-1.11.3.min.js", "script/add-to-playlist.js"],
+      "css": ["stylesheet/add-to-playlist.css"]
     }
   ],
   "permissions": [
